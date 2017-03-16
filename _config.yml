@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: zective
-google_analytics: zective
+google_analytics: 
 title: zective.github.io
 
 defaults:
@@ -14,20 +14,20 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: zective
+      title: zective.github.io
 
 avatar: https://avatars0.githubusercontent.com/u/3415163?s=120
 
 description: Oooops
 author:
-  name: zective
+  name: Zective
   email: zective@gmail.com
   github: zective
   twitter: zective
   pinterest: 
   linkedin: zective
   bio: Go Python
-  email_md5: 
+  email_md5: 70751c629895308bc167790513c06b1d
 
 rss_path: feed.xml
 categories_path: categories.html
