@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: zective
 google_analytics: zective
-title: zective
+title: zective.github.io
 
 defaults:
   -
@@ -34,7 +34,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://avatars0.githubusercontent.com/u/3415163?s=120
+# sidebar_background_image: https://avatars0.githubusercontent.com/u/3415163?s=120
 
 BASE_PATH:
 
