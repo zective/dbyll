@@ -16,7 +16,9 @@ defaults:
     values:
       title: zective
 
-description: Stylish Jekyll Theme
+avatar: https://avatars0.githubusercontent.com/u/3415163?s=120
+
+description: Oooops
 author:
   name: zective
   email: zective@gmail.com
@@ -24,7 +26,8 @@ author:
   twitter: zective
   pinterest: 
   linkedin: zective
-  bio: Your stylish, minimalist theme!
+  facebook: zective
+  bio: Go Python
   email_md5: 
 
 rss_path: feed.xml
@@ -32,7 +35,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+sidebar_background_image: https://avatars0.githubusercontent.com/u/3415163?s=120
 
 BASE_PATH:
 
