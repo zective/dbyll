@@ -7,7 +7,6 @@ fullview: true
 comments: true
 ---
 
-
 I try to make a simple web crawler by python. :)
 
 And it will be made with [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup) library.
