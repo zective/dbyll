@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Made a crawler project website. :-)
-categories: [Crawler]
+categories: [Project-Crawler]
 tags: [github, project, website, create, crawler, python]
 fullview: true
 comments: true
